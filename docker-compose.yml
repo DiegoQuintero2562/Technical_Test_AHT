@@ -1,3 +1,4 @@
+#configuracion de un entorno de desarrollo uno para una base de datos MySQL y otro para una aplicación Flask
 services:
   db:
     image: mysql:latest

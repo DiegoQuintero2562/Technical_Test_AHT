@@ -1,4 +1,4 @@
-# Usar una imagen de Python 3.10
+# Usar una imagen de Python 3.x dependiendo de la version de pyhton que manejes
 FROM python:3.11.4-slim
 
 # Configurar el directorio de trabajo
